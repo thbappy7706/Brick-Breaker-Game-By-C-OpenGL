@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1574191920 source:i:\brick breaker\brick breaker.cpp
+	<windows.h>
+	<stdio.h>
+	<iostream>
+	<GL/glut.h>
+	<string>
+	<sstream>
+
